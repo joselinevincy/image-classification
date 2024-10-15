@@ -1,6 +1,7 @@
 IMAGE CLASSIFICATION. .  
 
-1).MODULES AND PACKAGES USE
+1).MODULES AND PACKAGES US
+• os, glob
 • numpy
 • matplotlib
 • pandas
@@ -18,13 +19,10 @@ IMAGE CLASSIFICATION. .
 • dropout
 • optimizer
 
-2).
-
-
-
-
-
-
-
-
-
+2).I have the preprocessing techniques to.
+° omitting unwanted data present
+° handling outliers
+° handling normalization
+° to reduce the feature map
+° to stop before the error happens
+° to avoid over fit
