@@ -19,7 +19,7 @@ IMAGE CLASSIFICATION. .
 • dropout
 • optimizer
 
-2).I have the preprocessing techniques to.
+2).I have used the preprocessing techniques to.
 ° omitting unwanted data present
 ° handling outliers
 ° handling normalization
